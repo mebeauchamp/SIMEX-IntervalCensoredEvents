@@ -11,6 +11,7 @@ The code has been written using R with the following version information:<br/>
   - survival version 3.2-11
 
 ## Directory: Simulations 
+
 #### `Simulations_and_Results.R`
 Code to reproduce the simulations, as well as to extract results for the tables and to create the figures, presented in the manuscript and Supporting Information.
 
@@ -18,6 +19,7 @@ Code to reproduce the simulations, as well as to extract results for the tables 
 Code for the functions needed for to perform the *simulations*. This program is called by `Simulations_and_Results.R`. For functions to implement the proposed methods for a given dataset, see `Functions_SIMEXforIntervalCensoredOutcomes.R` in the directory Use.
 
 ## Directory: Use 
+
 #### `Functions_SIMEXforIntervalCensoredOutcomes.R`
 Code for the functions to implement the proposed methods for a given dataset.
 
