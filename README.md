@@ -16,12 +16,12 @@ The code has been written using R with the following version information:<br/>
 Code to reproduce the simulations, as well as to extract results for the tables and to create the figures, presented in the manuscript and Supporting Information.
 
 #### `Functions_for_Simulations.R`
-Code for the functions needed for to perform the *simulations*. This program is called by `Simulations_and_Results.R`. For functions to implement the proposed methods for a given dataset, see `Functions_SIMEXforIntervalCensoredOutcomes.R` in the directory Use.
+Code of the functions needed to perform the *simulations*. This program is called by `Simulations_and_Results.R`. For the functions to implement the proposed methods for a given dataset, see `Functions_SIMEXforIntervalCensoredOutcomes.R` in the directory Use.
 
 ## Directory: Use 
 
 #### `Functions_SIMEXforIntervalCensoredOutcomes.R`
-Code for the functions to implement the proposed methods for a given dataset.
+Code of the functions to implement the proposed methods for a given dataset.
 
 #### `Example_Use.R`
 Program illustrating the implementation of the proposed methods for a given dataset. This program calls `Functions_SIMEXforIntervalCensoredOutcomes.R`.
