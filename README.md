@@ -1,4 +1,7 @@
-R code for the article "Abrahamowicz M, Beauchamp ME, Moura CS, Bernatsky S, Ferreira Guerra S, Danieli C. **Adapting SIMEX to correct for bias due to interval-censored outcomes in survival analysis with time-varying exposure.** *Biom J* 2022".
+# SIMEX to correct for bias due to interval-censored events in survival analysis with time-varying exposure 
+
+R code for the article "Abrahamowicz M, Beauchamp ME, Moura CS, Bernatsky S, Ferreira Guerra S, Danieli C. Adapting SIMEX to correct for bias due to interval-censored outcomes in survival analysis with time-varying exposure. *Biom J* 2022".
+
 
 The directory *Simulations* includes R programs to reproduce the simulations. The directory *Use* contains the programs to implement the proposed methods for a given dataset.
 
