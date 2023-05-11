@@ -1,11 +1,11 @@
-# SIMEX-like method to correct for bias due to interval-censored events in survival analysis with time-varying exposure
+# SIMEX-like method to correct for bias due to interval-censored events in survival analysis with time-varying exposure 
 
 R code to implement for a given dataset the proposed methods in the article:  
-"Abrahamowicz M, Beauchamp ME, Moura CS, Bernatsky S, Ferreira Guerra S, Danieli C. Adapting SIMEX to correct for bias due to interval-censored outcomes in survival analysis with time-varying exposure. *Biom J* 2022".
+"Abrahamowicz M, Beauchamp ME, Moura CS, Bernatsky S, Ferreira Guerra S, Danieli C. Adapting SIMEX to correct for bias due to interval-censored outcomes in survival analysis with time-varying exposure. *Biom J* 2022;64(8):1467-1485".
 
 For questions or comments about the code contact Marie-Eve Beauchamp (marie-eve.beauchamp at rimuhc.ca).
 
-R code to reproduce the simulations presented in the article can be found as Supporting Information at doi/10.1002/bimj.2021xxxxx. 
+R code to reproduce the simulations presented in the article can be found as Supporting Information at doi/10.1002/bimj.202100013. 
 
 ## Content
 
